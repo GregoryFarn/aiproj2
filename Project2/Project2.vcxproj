@@ -117,6 +117,28 @@
   <ItemGroup>
     <ClCompile Include="project2cs360s2019.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="input0.txt" />
+    <Text Include="input1.txt" />
+    <Text Include="input2.txt" />
+    <Text Include="input3.txt" />
+    <Text Include="input4.txt" />
+    <Text Include="input5.txt" />
+    <Text Include="input6.txt" />
+    <Text Include="input7.txt" />
+    <Text Include="input8.txt" />
+    <Text Include="input9.txt" />
+    <Text Include="output0.txt" />
+    <Text Include="output1.txt" />
+    <Text Include="output2.txt" />
+    <Text Include="output3.txt" />
+    <Text Include="output4.txt" />
+    <Text Include="output5.txt" />
+    <Text Include="output6.txt" />
+    <Text Include="output7.txt" />
+    <Text Include="output8.txt" />
+    <Text Include="output9.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
