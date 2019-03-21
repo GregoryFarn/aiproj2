@@ -1,2 +1,5 @@
 ﻿  project2cs360s2019.cpp
+c:\users\007fa\documents\github\aiproj2\project2\project2cs360s2019.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\007fa\documents\github\aiproj2\project2\project2cs360s2019.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\007fa\documents\github\aiproj2\project2\project2cs360s2019.cpp(90): warning C4018: '<': signed/unsigned mismatch
   Project2.vcxproj -> C:\Users\007fa\Documents\GitHub\aiproj2\Debug\Project2.exe
